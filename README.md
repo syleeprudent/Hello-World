@@ -18,8 +18,8 @@ Through this assignment, I learned how to create a public repository, edit a REA
 
 ## Files Used
 - `README.md`: Explains the purpose of this repository.
-- `Sylee Prudent Interview Assignment.pdf`: First example of my completed coursework.
-- `SECOND_FILE_NAME`: Second example of my completed coursework.
+- `Sylee Prudent SMART Goals.pdf`: First example of my completed coursework.
+- `Sylee Prudent Interview Assignment.pdf`: Second example of my completed coursework.
 
 ## How to Run Program
 This repository is a practice project and does not require a program to run.
