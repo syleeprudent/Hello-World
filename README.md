@@ -18,7 +18,7 @@ Through this assignment, I learned how to create a public repository, edit a REA
 
 ## Files Used
 - `README.md`: Explains the purpose of this repository.
-- `FIRST_FILE_NAME`: First example of my completed coursework.
+- `Sylee Prudent Interview Assignment.pdf`: First example of my completed coursework.
 - `SECOND_FILE_NAME`: Second example of my completed coursework.
 
 ## How to Run Program
